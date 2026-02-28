@@ -4,3 +4,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+print("This is a test script for testing the functionality of the test-scripts package.")
